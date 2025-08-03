@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - dev
+      - test
 env:
   MONGODB_DB_NAME: gha-demo
 jobs:
